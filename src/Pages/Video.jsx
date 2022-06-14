@@ -14,8 +14,14 @@ const Video = ({id,src}) => {
   
 
 
+  // the code for playing video starts here
+ 
+
+
 
   return (
+
+
 
     <div className ='video'>
      <video 
@@ -23,7 +29,11 @@ const Video = ({id,src}) => {
         className="video_player"
         id ={id}
         src= {src} 
-     
+       
+
+       
+      
+       
          />
 
       <div className='shortsContainer'>
