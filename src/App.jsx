@@ -2,11 +2,11 @@ import React,{useEffect,useState} from 'react';
 import Navbar from './Components/Navbar';
 import Video from './Pages/Video';
 import './aapi.css';
-import data from './data';
+import Data from './data';
 
-
+//bara (Video) = Data
 const App = () => {
-
+ 
 
   return (
 

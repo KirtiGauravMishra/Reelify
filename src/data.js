@@ -1,11 +1,10 @@
 import React from "react";
 
-const data = [
+const Data = [
     {
       id: 1,
       url:
-        "https://img23.ropose.com/video/mvid/bISCoHc/uBKy_315560961836500fdd44d11-be16-474e-aac5-620df3d3e96a_4275937a_a822.mp4",
-    },
+        " https://rr4---sn-1gi7znek.googlevideo.com/videoplayback?expire=1651232641&ei=IXtrYtuBJLDIx_APx6aHyAo&ip=154.95.32.234&id=o-AMHDHnwTBj6YFrmpNGa14cKuprD98smsP4iob3_ZujTk&itag=18&source=youtube&requiressl=yes&mh=7R&mm=31%2C26&mn=sn-1gi7znek%2Csn-aigl6ner&ms=au%2Conr&mv=m&mvi=4&pl=24&pcm2=no&initcwndbps=273750&vprv=1&mime=video%2Fmp4&gir=yes&clen=1626802&ratebypass=yes&dur=15.061&lmt=1646210210803700&mt=1651210868&fvip=1&fexp=24001373%2C24007246&c=ANDROID&txp=6310224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIdRO7xMabAkKZNe9VLOtnH9Dt2NNPO-ti7TFDFjRS8VAiEA0g5DkPSWJQMI68mfYUVvx5JjPTEfExoGFF5V-3sOlq8%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAJhPFP-QCPulTpahhICvwM3-bEvOKRiTnsiYk-VUk_sVAiAv6yjVWlp2iQt2Hp5X_IVXyfprm97ZXPI60M6uZ4253w%3D%3D"},
     {
       id: 2,
       url:
@@ -18,4 +17,4 @@ const data = [
     },
   ];
   
-  export default data;
+  export default Data;
